@@ -8,7 +8,7 @@
  
 ## Topologie analysée (GNS3)  
 <img width="914" height="557" alt="image" src="https://github.com/user-attachments/assets/b1eaf669-6316-470a-83f4-18ef65129ccd" />  
-![Uploading 1 topologie.png…]()
+<img width="1920" height="1066" alt="1 topologie" src="https://github.com/user-attachments/assets/bf159278-ffa3-4032-a558-dc2ba18b77c1" />
 
 
   
