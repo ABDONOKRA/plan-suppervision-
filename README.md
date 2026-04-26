@@ -48,13 +48,13 @@ R2 — f1/0 — R3 — f0/1
 ## Plan d'exécution — Étapes
  
 ### Phase 1 — Infrastructure & adressage
-- [ ] Définir le plan d'adressage IP des interfaces des routeurs
-- [ ] Configurer les interfaces de R1, R2, R3 via Telnet
-- [ ] Configurer le routage statique (ou OSPF) entre les 3 routeurs
-- [ ] Vérifier la connectivité de bout en bout (ping entre toutes les machines)
+- [ .] Définir le plan d'adressage IP des interfaces des routeurs
+- [. ] Configurer les interfaces de R1, R2, R3 via Telnet
+- [. ] Configurer le routage statique (ou OSPF) entre les 3 routeurs
+- [ .] Vérifier la connectivité de bout en bout (ping entre toutes les machines)
 ### Phase 2 — Installation de Zabbix
-- [ ] Installer Zabbix Server sur la machine Fedora (host)
-- [ ] Installer Zabbix Agent sur la VM Ubuntu (192.168.1.11)
+- [ .] Installer Zabbix Server sur la machine Fedora (host)
+- [ .] Installer Zabbix Agent sur la VM Ubuntu (192.168.1.11)
 - [ ] Vérifier la communication Agent ↔ Server
 ### Phase 3 — Création des items de surveillance (UserParameter)
 - [ ] Créer un script Bash qui vérifie si une route spécifique existe (`ip route | grep`)
